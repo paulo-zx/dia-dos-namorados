@@ -1,0 +1,27 @@
+footer{
+    background-color: red;
+    padding: 3px;
+    gap: 2px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer span{
+    font-size: 1.15em;
+    font-weight: 200;
+    color: black;
+}
+
+footer nav {
+    display: flex;
+    align-items: center;
+    
+}
+
+footer nav a {
+    margin-right: 1px;
+    font-size: 1.5em;
+    color: black;
+}
